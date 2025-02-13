@@ -203,7 +203,7 @@ localparam CONF_STR = {
 	"-;",
 	"F1,bin,Load Cartridge;",
 	"-;",
-	"O[122:121],Aspect ratio,Original,Full Screen,[ARC1],[ARC2];",
+	"O[122:121],Aspect-ratio,Original,Full Screen,[ARC1],[ARC2];",
 	"O[20],Flickerblend,On,Off;",
 	"O23,Scandoubler Fx,None,HQ2x,CRT 25%,CRT 50%;",
 	"OAB,Scale,Normal,V-Integer,Narrower HV-Integer,Wider HV-Integer;",
